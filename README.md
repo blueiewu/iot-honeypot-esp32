@@ -1,1 +1,0 @@
-# iot-honeypot-esp32
